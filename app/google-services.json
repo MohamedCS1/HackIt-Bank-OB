@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304067156827",
+    "project_id": "hackit-1b9a4",
+    "storage_bucket": "hackit-1b9a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304067156827:android:eee54fb082b4f89430187e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304067156827-arlo27ocl24k5s21rvtd5np4o782q04l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "4d9d3ca2c8ddcd5df05ade58dd9be3477862c4ed"
+          }
+        },
+        {
+          "client_id": "304067156827-fdn41r209ua4ksd0l90fpgfa70ufuoma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLX2n-m2yHFdIF_LLuBAFwfWaEFxxTTJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304067156827-fdn41r209ua4ksd0l90fpgfa70ufuoma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
