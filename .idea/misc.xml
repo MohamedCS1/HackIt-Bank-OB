@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/background_bu_new_upload.xml" value="0.3546875" />
+        <entry key="app/src/main/res/drawable/background_bu_new_upload_black.xml" value="0.3546875" />
+        <entry key="app/src/main/res/drawable/background_bu_new_upload_white.xml" value="0.3546875" />
+        <entry key="app/src/main/res/drawable/background_bu_recent.xml" value="0.3546875" />
+        <entry key="app/src/main/res/drawable/background_bu_recent_black.xml" value="0.3546875" />
+        <entry key="app/src/main/res/drawable/background_button_black.xml" value="0.27708333333333335" />
+        <entry key="app/src/main/res/drawable/background_edittext_white.xml" value="0.3546875" />
+        <entry key="app/src/main/res/drawable/background_top_addfile.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/activity_log_in.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1828125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.27309782608695654" />
       </map>
     </option>
